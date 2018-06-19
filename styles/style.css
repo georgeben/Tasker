@@ -1,0 +1,47 @@
+body{
+    background-color: antiquewhite;
+}
+
+.container{
+    width: 70%; 
+    margin: auto;
+    background-color: azure;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 40px;
+    border: 5px solid skyblue;
+    box-shadow: 3px 3px 5px #333;
+}
+
+header{
+    border-bottom: 1px solid black;
+}
+
+#logo{
+    margin-bottom: 0;
+}
+
+#motto{
+    margin-top: 5px;
+}
+
+.list_container{
+    min-height: 400px;
+}
+
+#add_task_input{
+    height: 20px;
+    padding: 5px;
+}
+
+#add_task_button{
+    border: none;
+    padding: 5px 15px;
+    height: 35px;
+    background-color: #444;
+    color: white;
+}
+
+#add_task_button:hover{
+    background-color: #777;
+}
