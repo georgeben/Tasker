@@ -45,3 +45,17 @@ header{
 #add_task_button:hover{
     background-color: #777;
 }
+
+.colour_preferences{
+    display: flex;
+    border-top: 1px solid black;
+    flex-wrap: wrap;
+}
+
+.colour_preferences h3{
+    flex: 100%;
+}
+
+.preference_labels{
+    margin-right: 10%;
+}
