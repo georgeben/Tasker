@@ -59,3 +59,9 @@ header{
 .preference_labels{
     margin-right: 10%;
 }
+
+input[type="color"]{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
